@@ -561,12 +561,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.196602,
-        "lines": [
-            {
-                "line": "7",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "7": "tac"
+        },
         "localisations": [],
         "longitude": 6.255111,
         "name": "Résistance",
@@ -1082,12 +1079,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.198217,
-        "lines": [
-            {
-                "line": "3",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "3": "tac"
+        },
         "localisations": [],
         "longitude": 6.222518,
         "name": "Jean Jaurès",
@@ -1105,12 +1099,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.199262,
-        "lines": [
-            {
-                "line": "T2",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "T2": "tac"
+        },
         "localisations": [],
         "longitude": 6.237821,
         "name": "Annemasse Gare routière",
@@ -1329,12 +1320,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.204152,
-        "lines": [
-            {
-                "line": "4",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "4": "tac"
+        },
         "localisations": [],
         "longitude": 6.24164,
         "name": "La Rotonde",
@@ -2311,12 +2299,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.143308,
-        "lines": [
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": 6.317862,
         "name": "Hôpital Findrol",
@@ -2503,12 +2488,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.189441,
-        "lines": [
-            {
-                "line": "3",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "3": "tac"
+        },
         "localisations": [],
         "longitude": 6.209669,
         "name": "Gaillard Poste",
@@ -2857,12 +2839,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.201113,
-        "lines": [
-            {
-                "line": "T2",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "T2": "tac"
+        },
         "localisations": [],
         "longitude": 6.244324,
         "name": "République",
@@ -3410,16 +3389,10 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.197164,
-        "lines": [
-            {
-                "line": "3",
-                "operator": "tac"
-            },
-            {
-                "line": "4",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "3": "tac",
+            "4": "tac"
+        },
         "localisations": [],
         "longitude": 6.227477,
         "name": "Ambilly Hôpital",
@@ -4146,12 +4119,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.167921,
-        "lines": [
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": 6.200533,
         "name": "Les Îles",
@@ -4790,12 +4760,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.206632,
-        "lines": [
-            {
-                "line": "7",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "7": "tac"
+        },
         "localisations": [],
         "longitude": 6.278464,
         "name": "Maison de l'Eau",
@@ -5542,12 +5509,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.196839,
-        "lines": [
-            {
-                "line": "3",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "3": "tac"
+        },
         "localisations": [],
         "longitude": 6.219892,
         "name": "La Paix",
@@ -5684,12 +5648,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.192207,
-        "lines": [
-            {
-                "line": "6",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "6": "tac"
+        },
         "localisations": [],
         "longitude": 6.23935,
         "name": "Aristide Briand",
@@ -5982,12 +5943,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.182408,
-        "lines": [
-            {
-                "line": "4",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "4": "tac"
+        },
         "localisations": [],
         "longitude": 6.270936,
         "name": "La Rape",
@@ -6639,12 +6597,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.166408,
-        "lines": [
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": 6.321194,
         "name": "Fruitière",
@@ -7518,12 +7473,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.203662,
-        "lines": [
-            {
-                "line": "4",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "4": "tac"
+        },
         "localisations": [],
         "longitude": 6.246302,
         "name": "Pont Neuf",
@@ -9215,12 +9167,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.176161,
-        "lines": [
-            {
-                "line": "4",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "4": "tac"
+        },
         "localisations": [],
         "longitude": 6.265371,
         "name": "Hutins",
@@ -9748,12 +9697,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.176563,
-        "lines": [
-            {
-                "line": "4",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "4": "tac"
+        },
         "localisations": [],
         "longitude": 6.253073,
         "name": "Collège Maronniers",
@@ -10016,12 +9962,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.180707,
-        "lines": [
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": 6.287499,
         "name": "Taninges",
@@ -10279,12 +10222,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.183685,
-        "lines": [
-            {
-                "line": "6",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "6": "tac"
+        },
         "localisations": [],
         "longitude": 6.200757,
         "name": "Vernaz",
@@ -10708,20 +10648,11 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.194734,
-        "lines": [
-            {
-                "line": "5",
-                "operator": "tac"
-            },
-            {
-                "line": "7",
-                "operator": "tac"
-            },
-            {
-                "line": "NV",
-                "operator": "tpg"
-            }
-        ],
+        "lines": {
+            "5": "tac",
+            "7": "tac",
+            "NV": "tpg"
+        },
         "localisations": [],
         "longitude": 6.251148,
         "name": "Sous-Cassan",
@@ -12275,12 +12206,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.181548,
-        "lines": [
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": 6.231101,
         "name": "Pont d'Etrembières",
@@ -12408,12 +12336,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.179714,
-        "lines": [
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": 6.300562,
         "name": "La Bergue",
@@ -13616,12 +13541,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.186698,
-        "lines": [
-            {
-                "line": "3",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "3": "tac"
+        },
         "localisations": [],
         "longitude": 6.208034,
         "name": "Bossonnets",
@@ -14599,12 +14521,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.196388,
-        "lines": [
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": 6.246746,
         "name": "Glières",
@@ -16196,12 +16115,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.199335,
-        "lines": [
-            {
-                "line": "3",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "3": "tac"
+        },
         "localisations": [],
         "longitude": 6.224371,
         "name": "Martinière",
@@ -16824,12 +16740,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.186796,
-        "lines": [
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": 6.291813,
         "name": "Cranves-Sales Mairie",
@@ -17189,12 +17102,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.185504,
-        "lines": [
-            {
-                "line": "6",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "6": "tac"
+        },
         "localisations": [],
         "longitude": 6.201727,
         "name": "Gentianes",
@@ -17994,24 +17904,12 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.203294,
-        "lines": [
-            {
-                "line": "4",
-                "operator": "tac"
-            },
-            {
-                "line": "6",
-                "operator": "tac"
-            },
-            {
-                "line": "7",
-                "operator": "tac"
-            },
-            {
-                "line": "T2",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "4": "tac",
+            "6": "tac",
+            "7": "tac",
+            "T2": "tac"
+        },
         "localisations": [],
         "longitude": 6.248967,
         "name": "Ville-la-Grand Église",
@@ -18516,12 +18414,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.18907,
-        "lines": [
-            {
-                "line": "3",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "3": "tac"
+        },
         "localisations": [],
         "longitude": 6.237916,
         "name": "Château-Rouge",
@@ -18539,12 +18434,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.177675,
-        "lines": [
-            {
-                "line": "4",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "4": "tac"
+        },
         "localisations": [],
         "longitude": 6.268292,
         "name": "Corly",
@@ -18610,12 +18502,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.202016,
-        "lines": [
-            {
-                "line": "4",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "4": "tac"
+        },
         "localisations": [],
         "longitude": 6.234535,
         "name": "Cornières",
@@ -18688,12 +18577,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.183763,
-        "lines": [
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": 6.28022,
         "name": "Route des tattes",
@@ -18831,12 +18717,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.190127,
-        "lines": [
-            {
-                "line": "4",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "4": "tac"
+        },
         "localisations": [],
         "longitude": 6.235769,
         "name": "Château Bleu",
@@ -18854,16 +18737,10 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.186135,
-        "lines": [
-            {
-                "line": "4",
-                "operator": "tac"
-            },
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "4": "tac",
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": 6.282514,
         "name": "Complexe Sportif",
@@ -18929,16 +18806,10 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.183083,
-        "lines": [
-            {
-                "line": "3",
-                "operator": "tac"
-            },
-            {
-                "line": "6",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "3": "tac",
+            "6": "tac"
+        },
         "localisations": [],
         "longitude": 6.205784,
         "name": "Feux-Follets",
@@ -19005,12 +18876,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.204314,
-        "lines": [
-            {
-                "line": "6",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "6": "tac"
+        },
         "localisations": [],
         "longitude": 6.262174,
         "name": "Prés des Plans",
@@ -20182,12 +20050,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.24026,
-        "lines": [
-            {
-                "line": "7",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "7": "tac"
+        },
         "localisations": [],
         "longitude": 6.324839,
         "name": "Terret",
@@ -20741,12 +20606,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.203343,
-        "lines": [
-            {
-                "line": "T2",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "T2": "tac"
+        },
         "localisations": [],
         "longitude": 6.277018,
         "name": "ZI Montréal",
@@ -21992,12 +21854,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.186031,
-        "lines": [
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": 6.275029,
         "name": "Chemin des teppes",
@@ -22254,12 +22113,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.184755,
-        "lines": [
-            {
-                "line": "6",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "6": "tac"
+        },
         "localisations": [],
         "longitude": 6.216393,
         "name": "Collège Jacques Prévert",
@@ -22898,12 +22754,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.174021,
-        "lines": [
-            {
-                "line": "4",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "4": "tac"
+        },
         "localisations": [],
         "longitude": 6.258554,
         "name": "Vétraz Monthoux",
@@ -23465,16 +23318,10 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.201035,
-        "lines": [
-            {
-                "line": "7",
-                "operator": "tac"
-            },
-            {
-                "line": "T2",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "7": "tac",
+            "T2": "tac"
+        },
         "localisations": [],
         "longitude": 6.263527,
         "name": "Voirons",
@@ -24208,12 +24055,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.19029,
-        "lines": [
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": 6.233317,
         "name": "Saint André",
@@ -24562,24 +24406,12 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.182632,
-        "lines": [
-            {
-                "line": "3",
-                "operator": "tac"
-            },
-            {
-                "line": "4",
-                "operator": "tac"
-            },
-            {
-                "line": "7",
-                "operator": "tac"
-            },
-            {
-                "line": "T2",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "3": "tac",
+            "4": "tac",
+            "7": "tac",
+            "T2": "tac"
+        },
         "localisations": [],
         "longitude": 6.245066,
         "name": "Jean-Monnet",
@@ -24597,12 +24429,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.194499,
-        "lines": [
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": 6.245026,
         "name": "Jardin des Muses",
@@ -25339,12 +25168,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.182272,
-        "lines": [
-            {
-                "line": "4",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "4": "tac"
+        },
         "localisations": [],
         "longitude": 6.238235,
         "name": "Léman",
@@ -26550,12 +26376,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.199758,
-        "lines": [
-            {
-                "line": "6",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "6": "tac"
+        },
         "localisations": [],
         "longitude": 6.24552,
         "name": "Allobroges",
@@ -26708,12 +26531,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.199437,
-        "lines": [
-            {
-                "line": "4",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "4": "tac"
+        },
         "localisations": [],
         "longitude": 6.226338,
         "name": "Bibliothèque",
@@ -27028,12 +26848,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.200437,
-        "lines": [
-            {
-                "line": "4",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "4": "tac"
+        },
         "localisations": [],
         "longitude": 6.229892,
         "name": "Foron",
@@ -27642,12 +27459,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.177423,
-        "lines": [
-            {
-                "line": "4",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "4": "tac"
+        },
         "localisations": [],
         "longitude": 6.24843,
         "name": "Nous Aussi",
@@ -28176,12 +27990,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.189136,
-        "lines": [
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": 6.263862,
         "name": "Bas-Monthoux Chapelle",
@@ -28199,16 +28010,10 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.182691,
-        "lines": [
-            {
-                "line": "3",
-                "operator": "tac"
-            },
-            {
-                "line": "6",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "3": "tac",
+            "6": "tac"
+        },
         "localisations": [],
         "longitude": 6.201169,
         "name": "Martinet",
@@ -28226,12 +28031,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.182203,
-        "lines": [
-            {
-                "line": "4",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "4": "tac"
+        },
         "localisations": [],
         "longitude": 6.277196,
         "name": "ZI Borly",
@@ -28558,12 +28360,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.199653,
-        "lines": [
-            {
-                "line": "T2",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "T2": "tac"
+        },
         "localisations": [],
         "longitude": 6.268208,
         "name": "Buchillons",
@@ -28581,12 +28380,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.185486,
-        "lines": [
-            {
-                "line": "3",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "3": "tac"
+        },
         "localisations": [],
         "longitude": 6.241842,
         "name": "Perrier",
@@ -28637,12 +28433,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.191567,
-        "lines": [
-            {
-                "line": "6",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "6": "tac"
+        },
         "localisations": [],
         "longitude": 6.240867,
         "name": "Maison des Sports",
@@ -30228,12 +30021,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.18271,
-        "lines": [
-            {
-                "line": "6",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "6": "tac"
+        },
         "localisations": [],
         "longitude": 6.215312,
         "name": "Châtelaine",
@@ -31620,12 +31410,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.179343,
-        "lines": [
-            {
-                "line": "4",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "4": "tac"
+        },
         "localisations": [],
         "longitude": 6.24032,
         "name": "Route de Bonneville",
@@ -32449,12 +32236,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.197636,
-        "lines": [
-            {
-                "line": "6",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "6": "tac"
+        },
         "localisations": [],
         "longitude": 6.24313,
         "name": "Tournelles",
@@ -32808,12 +32592,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.20438,
-        "lines": [
-            {
-                "line": "4",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "4": "tac"
+        },
         "localisations": [],
         "longitude": 6.238551,
         "name": "Albert Hénon",
@@ -32831,24 +32612,12 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.186568,
-        "lines": [
-            {
-                "line": "3",
-                "operator": "tac"
-            },
-            {
-                "line": "7",
-                "operator": "tac"
-            },
-            {
-                "line": "NV",
-                "operator": "tpg"
-            },
-            {
-                "line": "T2",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "3": "tac",
+            "7": "tac",
+            "NV": "tpg",
+            "T2": "tac"
+        },
         "localisations": [],
         "longitude": 6.242868,
         "name": "Verdun",
@@ -33833,12 +33602,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.162353,
-        "lines": [
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": 6.320578,
         "name": "Soly",
@@ -35707,16 +35473,10 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.188695,
-        "lines": [
-            {
-                "line": "4",
-                "operator": "tac"
-            },
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "4": "tac",
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": 6.285633,
         "name": "Collège Paul-Émile Victor",
@@ -37368,12 +37128,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.170703,
-        "lines": [
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": 6.31616,
         "name": "PAE de la Menoge",
@@ -38214,12 +37971,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.187327,
-        "lines": [
-            {
-                "line": "6",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "6": "tac"
+        },
         "localisations": [],
         "longitude": 6.222994,
         "name": "Pierre Mendes France",
@@ -38379,16 +38133,10 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.184964,
-        "lines": [
-            {
-                "line": "3",
-                "operator": "tac"
-            },
-            {
-                "line": "6",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "3": "tac",
+            "6": "tac"
+        },
         "localisations": [],
         "longitude": 6.206622,
         "name": "Gaillard Église",
@@ -38406,12 +38154,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.168644,
-        "lines": [
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": 6.318999,
         "name": "Bonne Centre",
@@ -39862,12 +39607,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.177991,
-        "lines": [
-            {
-                "line": "4",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "4": "tac"
+        },
         "localisations": [],
         "longitude": 6.242551,
         "name": "Cèdre",
@@ -41164,12 +40906,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.185816,
-        "lines": [
-            {
-                "line": "4",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "4": "tac"
+        },
         "localisations": [],
         "longitude": 6.236486,
         "name": "Valeury Lycée Professionnel",
@@ -41241,12 +40980,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.186185,
-        "lines": [
-            {
-                "line": "3",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "3": "tac"
+        },
         "localisations": [],
         "longitude": 6.238187,
         "name": "Annexion",
@@ -42486,12 +42222,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.180077,
-        "lines": [
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": 6.228945,
         "name": "Maison Blanche",
@@ -43871,12 +43604,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.190887,
-        "lines": [
-            {
-                "line": "3",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "3": "tac"
+        },
         "localisations": [],
         "longitude": 6.238744,
         "name": "Périllat Lycée",
@@ -44468,12 +44198,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.163382,
-        "lines": [
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": 6.187131,
         "name": "Le Pas de L'Échelle École",
@@ -44648,12 +44375,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.190752,
-        "lines": [
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": 6.289761,
         "name": "Picolettes",
@@ -45933,12 +45657,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.191309,
-        "lines": [
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": 6.252247,
         "name": "Centre Transfusion",
@@ -46414,12 +46135,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.184462,
-        "lines": [
-            {
-                "line": "6",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "6": "tac"
+        },
         "localisations": [],
         "longitude": 6.209328,
         "name": "Gaillard Mairie",
@@ -46833,12 +46551,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.176403,
-        "lines": [
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": 6.223639,
         "name": "Etrembières Mairie",
@@ -48002,16 +47717,10 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.183368,
-        "lines": [
-            {
-                "line": "3",
-                "operator": "tac"
-            },
-            {
-                "line": "6",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "3": "tac",
+            "6": "tac"
+        },
         "localisations": [],
         "longitude": 6.19728,
         "name": "Gaillard-Fossard",
@@ -48376,12 +48085,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.183295,
-        "lines": [
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": 6.290799,
         "name": "Vert Village",
@@ -48645,12 +48351,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.191387,
-        "lines": [
-            {
-                "line": "3",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "3": "tac"
+        },
         "localisations": [],
         "longitude": 6.216517,
         "name": "Millet",
@@ -48941,12 +48644,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.191244,
-        "lines": [
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": 6.254632,
         "name": "Jules Vernes",
@@ -49112,12 +48812,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.190895,
-        "lines": [
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": 6.259095,
         "name": "Les Nants",
@@ -49217,12 +48914,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.185373,
-        "lines": [
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": 6.230356,
         "name": "Lycée Professionnel",
@@ -50138,12 +49832,9 @@
         "connections": [],
         "connectionsMap": false,
         "latitude": null,
-        "lines": [
-            {
-                "line": "5",
-                "operator": "tac"
-            }
-        ],
+        "lines": {
+            "5": "tac"
+        },
         "localisations": [],
         "longitude": null,
         "name": "Route de Borly",
