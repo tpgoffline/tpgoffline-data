@@ -49937,5 +49937,223 @@
         "sbbId": "8593018",
         "subTitle": "",
         "title": "Maisonnex"
+    },
+    {
+        "appId": 468544,
+        "code": "ANGA",
+        "connectionsMap": false,
+        "connections": [],
+        "latitude": 46.198765,
+        "lines": {
+            "61": "tpg",
+            "R": "tac"
+        },
+        "localisations": [
+            {
+                "destinations": [
+                    {
+                        "destination": "Abondance",
+                        "destinationTransportAPI": "Annemasse, Abondance",
+                        "line": "R"
+                    },
+                    {
+                        "destination": "Lycée J.Monnet",
+                        "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
+                        "line": "R"
+                    }
+                ],
+                "latitude": 46.198656,
+                "longitude": 6.236617
+            },
+            {
+                "destinations": [
+                    {
+                        "destination": "Gare Cornavin",
+                        "destinationTransportAPI": "Genève, Cornavin",
+                        "line": "61"
+                    },
+                    {
+                        "destination": "Moillesulaz",
+                        "destinationTransportAPI": "Thônex, Moillesulaz",
+                        "line": "R"
+                    }
+                ],
+                "latitude": 46.198954,
+                "longitude": 6.237556
+            },
+            {
+                "destinations": [
+                    {
+                        "destination": "Gare Cornavin",
+                        "destinationTransportAPI": "Genève, Cornavin",
+                        "line": "61"
+                    },
+                    {
+                        "destination": "Lycée J.Monnet",
+                        "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
+                        "line": "R"
+                    },
+                    {
+                        "destination": "Moillesulaz",
+                        "destinationTransportAPI": "Thônex, Moillesulaz",
+                        "line": "R"
+                    }
+                ],
+                "latitude": 46.198537,
+                "longitude": 6.236477
+            }
+        ],
+        "longitude": 6.236814,
+        "name": "Annemasse Gare",
+        "nameTransportAPI": "Annemasse, gare",
+        "pricingZone": [
+            82
+        ],
+        "sbbId": "8595359",
+        "subTitle": "Gare",
+        "title": "Annemasse"
+    },
+    {
+        "appId": 827398,
+        "code": "BOBO",
+        "lines": {},
+        "connectionsMap": false,
+        "connections": [],
+        "latitude": 46.352033,
+        "localisations": [],
+        "longitude": 6.165181,
+        "name": "Bogis-Bossey",
+        "nameTransportAPI": "Bogis-Bossey",
+        "pricingZone": [
+            90
+        ],
+        "sbbId": "8579316",
+        "subTitle": "",
+        "title": "Bogis-Bossey"
+    },
+    {
+        "appId": 624562,
+        "code": "FLIZ",
+        "connectionsMap": true,
+        "connections": [],
+        "lines": {
+            "36": "tpg"
+        },
+        "latitude": 46.198837,
+        "localisations": [
+            {
+                "destinations": [
+                    {
+                        "destination": "Place de Neuve",
+                        "destinationTransportAPI": "Genève, Place de Neuve",
+                        "line": "36"
+                    }
+                ],
+                "latitude": 46.198814,
+                "longitude": 6.149703
+            }
+        ],
+        "longitude": 6.149295,
+        "name": "Liszt",
+        "nameTransportAPI": "Genève, Liszt",
+        "pricingZone": [
+            10
+        ],
+        "sbbId": "8592828",
+        "subTitle": "",
+        "title": "Liszt"
+    },
+    {
+        "appId": 584604,
+        "code": "LOHO",
+        "connectionsMap": false,
+        "connections": [],
+        "lines": {
+            "1": "tpg",
+            "5": "tpg"
+        },
+        "latitude": 46.19552,
+        "localisations": [
+            {
+                "destinations": [
+                    {
+                        "destination": "Hôpital Trois-Chêne",
+                        "destinationTransportAPI": "Thônex, Hôpital Trois-Chêne",
+                        "line": "1"
+                    },
+                    {
+                        "destination": "Petit-Bel-Air",
+                        "destinationTransportAPI": "Chêne-Bourg, Petit-Bel-Air",
+                        "line": "1"
+                    },
+                    {
+                        "destination": "Thônex-Vallard",
+                        "destinationTransportAPI": "Thônex, Vallard",
+                        "line": "5"
+                    }
+                ],
+                "latitude": 46.195537,
+                "longitude": 6.147176
+            }
+        ],
+        "longitude": 6.14721,
+        "name": "Lombard",
+        "nameTransportAPI": "Genève, Lombard",
+        "pricingZone": [
+            10
+        ],
+        "sbbId": "8592848",
+        "subTitle": "",
+        "title": "Lombard"
+    },
+    {
+        "appId": 790143,
+        "code": "MINE",
+        "connectionsMap": true,
+        "connections": [],
+        "lines": {
+            "1": "tpg",
+            "11": "tpg",
+            "25": "tpg",
+            "28": "tpg",
+        },
+        "latitude": 46.222389,
+        "localisations": [
+            {
+                "destinations": [
+                    {
+                        "destination": "Jardin Botanique",
+                        "destinationTransportAPI": "Genève, Jardin Botanique",
+                        "line": "1"
+                    },
+                    {
+                        "destination": "Bout-du-Monde",
+                        "destinationTransportAPI": "Genève, Bout-du-Monde",
+                        "line": "11"
+                    },
+                    {
+                        "destination": "Jardin Botanique",
+                        "destinationTransportAPI": "Genève, Jardin Botanique",
+                        "line": "25"
+                    },
+                    {
+                        "destination": "Les Esserts",
+                        "destinationTransportAPI": "Petit-Lancy, Les Esserts",
+                        "line": "28"
+                    }
+                ],
+                "latitude": 46.222409,
+                "longitude": 6.148613
+            }
+        ],
+        "longitude": 6.14863,
+        "name": "Mines",
+        "nameTransportAPI": "Genève, Mines",
+        "pricingZone": [
+            10
+        ],
+        "sbbId": "8592859",
+        "subTitle": "",
+        "title": "Mines"
     }
 ]
