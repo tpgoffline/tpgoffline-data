@@ -49831,18 +49831,18 @@
         "code": "",
         "connections": [],
         "connectionsMap": false,
-        "latitude": null,
+        "latitude": 46.180896,
         "lines": {
             "5": "tac"
         },
         "localisations": [],
-        "longitude": null,
+        "longitude": 6.288427,
         "name": "Route de Borly",
-        "nameTransportAPI": "Cranves-Sales, Rte de Borly ",
+        "nameTransportAPI": "Annemasse, Route de Borly",
         "pricingZone": [
             82
         ],
-        "sbbId": null,
+        "sbbId": "8595852",
         "subTitle": "",
         "title": "Route de Borly"
     },
