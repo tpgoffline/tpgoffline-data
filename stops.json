@@ -28771,26 +28771,6 @@
         "title": "Foulon"
     },
     {
-        "appId": 984879,
-        "code": "LAND",
-        "connections": [],
-        "connectionsMap": false,
-        "latitude": 46.144011,
-        "lines": {
-            "NO": "tpg"
-        },
-        "localisations": [],
-        "longitude": 6.130612,
-        "name": "Landecy",
-        "nameTransportAPI": "Bardonnex, Landecy",
-        "pricingZone": [
-            10
-        ],
-        "sbbId": "8595013",
-        "subTitle": "",
-        "title": "Landecy"
-    },
-    {
         "appId": 303467,
         "code": "PENT",
         "connections": [],
@@ -56586,7 +56566,8 @@
         "connectionsMap": false,
         "latitude": 46.142271,
         "lines": {
-            "62": "tpg"
+            "62": "tpg",
+            "NO": "tpg"
         },
         "localisations": [
             {
