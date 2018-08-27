@@ -76,7 +76,8 @@
         "connectionsMap": false,
         "latitude": 46.165055,
         "lines": {
-            "44": "tpg"
+            "44": "tpg",
+            "62": "tpg"
         },
         "localisations": [
             {
@@ -85,6 +86,12 @@
                         "destination": "Croix-de-Rozon",
                         "destinationTransportAPI": "Croix-de-Rozon, douane",
                         "line": "44",
+                        "operator": "tpg"
+                    },
+                    {
+                        "destination": "Collonges Marché",
+                        "destinationTransportAPI": "Collonges-Salève, Marché",
+                        "line": "62",
                         "operator": "tpg"
                     }
                 ],
@@ -97,6 +104,12 @@
                         "destination": "Carouge-Tours",
                         "destinationTransportAPI": "Carouge GE, Tours",
                         "line": "44",
+                        "operator": "tpg"
+                    },
+                    {
+                        "destination": "Bachet",
+                        "destinationTransportAPI": "Grand-Lancy, Bachet-de-Pesay",
+                        "line": "62",
                         "operator": "tpg"
                     }
                 ],
@@ -3734,7 +3747,8 @@
         "connectionsMap": false,
         "latitude": 46.167688,
         "lines": {
-            "44": "tpg"
+            "44": "tpg",
+            "62": "tpg"
         },
         "localisations": [
             {
@@ -3743,6 +3757,12 @@
                         "destination": "Croix-de-Rozon",
                         "destinationTransportAPI": "Croix-de-Rozon, douane",
                         "line": "44",
+                        "operator": "tpg"
+                    },
+                    {
+                        "destination": "Collonges Marché",
+                        "destinationTransportAPI": "Collonges-Salève, Marché",
+                        "line": "62",
                         "operator": "tpg"
                     }
                 ],
@@ -3755,6 +3775,12 @@
                         "destination": "Carouge-Tours",
                         "destinationTransportAPI": "Carouge GE, Tours",
                         "line": "44",
+                        "operator": "tpg"
+                    },
+                    {
+                        "destination": "Bachet",
+                        "destinationTransportAPI": "Grand-Lancy, Bachet-de-Pesay",
+                        "line": "62",
                         "operator": "tpg"
                     }
                 ],
@@ -5463,6 +5489,7 @@
             "14": "tpg",
             "42": "tpg",
             "47": "tpg",
+            "63": "tpg",
             "J": "tpg",
             "K": "tpg",
             "L": "tpg",
@@ -5572,6 +5599,12 @@
                         "destination": "Confignon-Cr.",
                         "destinationTransportAPI": "Confignon, croisée",
                         "line": "S",
+                        "operator": "tpg"
+                    },
+                    {
+                        "destination": "Confignon-Cr.",
+                        "destinationTransportAPI": "Confignon, croisée",
+                        "line": "63",
                         "operator": "tpg"
                     }
                 ],
@@ -8873,6 +8906,7 @@
             "42": "tpg",
             "43": "tpg",
             "46": "tpg",
+            "62": "tpg",
             "D": "tpg",
             "NM": "tpg"
         },
@@ -8943,6 +8977,12 @@
                         "destination": "Bellins",
                         "destinationTransportAPI": "Plan-les-Ouates, Bellins",
                         "line": "43",
+                        "operator": "tpg"
+                    },
+                    {
+                        "destination": "Collonges Marché",
+                        "destinationTransportAPI": "Collonges-Salève, Marché",
+                        "line": "62",
                         "operator": "tpg"
                     }
                 ],
@@ -12251,7 +12291,8 @@
         "connectionsMap": false,
         "latitude": 46.142043,
         "lines": {
-            "M": "tpg"
+            "M": "tpg",
+            "63": "tpg"
         },
         "localisations": [
             {
@@ -12280,13 +12321,13 @@
             }
         ],
         "longitude": 6.139147,
-        "name": "Bas Collonges",
-        "nameTransportAPI": "Collonges-Salève,Bas-Collonges",
+        "name": "Collonges Marché",
+        "nameTransportAPI": "Collonges-Salève, Marché",
         "pricingZone": [
             84
         ],
         "sbbId": "8595323",
-        "subTitle": "Bas",
+        "subTitle": "Marché",
         "title": "Collonges"
     },
     {
@@ -21524,7 +21565,8 @@
         "latitude": 46.150772,
         "lines": {
             "44": "tpg",
-            "NO": "tpg"
+            "NO": "tpg",
+            "62": "tpg"
         },
         "localisations": [
             {
@@ -21533,6 +21575,12 @@
                         "destination": "Croix-de-Rozon",
                         "destinationTransportAPI": "Croix-de-Rozon, douane",
                         "line": "44",
+                        "operator": "tpg"
+                    },
+                    {
+                        "destination": "Collonges Marché",
+                        "destinationTransportAPI": "Collonges-Salève, Marché",
+                        "line": "62",
                         "operator": "tpg"
                     }
                 ],
@@ -21545,6 +21593,12 @@
                         "destination": "Carouge-Tours",
                         "destinationTransportAPI": "Carouge GE, Tours",
                         "line": "44",
+                        "operator": "tpg"
+                    },
+                    {
+                        "destination": "Bachet",
+                        "destinationTransportAPI": "Grand-Lancy, Bachet-de-Pesay",
+                        "line": "62",
                         "operator": "tpg"
                     }
                 ],
@@ -25356,7 +25410,8 @@
         "latitude": 46.145504,
         "lines": {
             "44": "tpg",
-            "NO": "tpg"
+            "NO": "tpg",
+            "62": "tpg"
         },
         "localisations": [
             {
@@ -25365,6 +25420,12 @@
                         "destination": "Croix-de-Rozon",
                         "destinationTransportAPI": "Croix-de-Rozon, douane",
                         "line": "44",
+                        "operator": "tpg"
+                    },
+                    {
+                        "destination": "Collonges Marché",
+                        "destinationTransportAPI": "Collonges-Salève, Marché",
+                        "line": "62",
                         "operator": "tpg"
                     }
                 ],
@@ -25377,6 +25438,12 @@
                         "destination": "Carouge-Tours",
                         "destinationTransportAPI": "Carouge GE, Tours",
                         "line": "44",
+                        "operator": "tpg"
+                    },
+                    {
+                        "destination": "Bachet",
+                        "destinationTransportAPI": "Grand-Lancy, Bachet-de-Pesay",
+                        "line": "62",
                         "operator": "tpg"
                     }
                 ],
@@ -29307,6 +29374,7 @@
         "lines": {
             "14": "tpg",
             "42": "tpg",
+            "63": "tpg",
             "J": "tpg",
             "K": "tpg",
             "NJ": "tpg",
@@ -29397,6 +29465,12 @@
                         "destination": "Palettes",
                         "destinationTransportAPI": "Grand-Lancy, Palettes",
                         "line": "42",
+                        "operator": "tpg"
+                    },
+                    {
+                        "destination": "Viry",
+                        "destinationTransportAPI": "Viry, Église",
+                        "line": "63",
                         "operator": "tpg"
                     }
                 ],
@@ -30887,7 +30961,8 @@
         "connectionsMap": false,
         "latitude": 46.172696,
         "lines": {
-            "43": "tpg"
+            "43": "tpg",
+            "62": "tpg"
         },
         "localisations": [
             {
@@ -30903,6 +30978,12 @@
                         "destinationTransportAPI": "Onex, Vallet",
                         "line": "43",
                         "operator": "tpg"
+                    },
+                    {
+                        "destination": "Bachet",
+                        "destinationTransportAPI": "Grand-Lancy, Bachet-de-Pesay",
+                        "line": "62",
+                        "operator": "tpg"
                     }
                 ],
                 "latitude": 46.17301562337326,
@@ -30914,6 +30995,12 @@
                         "destination": "Bellins",
                         "destinationTransportAPI": "Plan-les-Ouates, Bellins",
                         "line": "43",
+                        "operator": "tpg"
+                    },
+                    {
+                        "destination": "Collonges Marché",
+                        "destinationTransportAPI": "Collonges-Salève, Marché",
+                        "line": "62",
                         "operator": "tpg"
                     }
                 ],
@@ -40444,7 +40531,8 @@
         "connectionsMap": false,
         "latitude": 46.170842,
         "lines": {
-            "43": "tpg"
+            "43": "tpg",
+            "62": "tpg"
         },
         "localisations": [
             {
@@ -40460,6 +40548,12 @@
                         "destinationTransportAPI": "Onex, Vallet",
                         "line": "43",
                         "operator": "tpg"
+                    },
+                    {
+                        "destination": "Bachet",
+                        "destinationTransportAPI": "Grand-Lancy, Bachet-de-Pesay",
+                        "line": "62",
+                        "operator": "tpg"
                     }
                 ],
                 "latitude": 46.17114638616627,
@@ -40471,6 +40565,12 @@
                         "destination": "Bellins",
                         "destinationTransportAPI": "Plan-les-Ouates, Bellins",
                         "line": "43",
+                        "operator": "tpg"
+                    },
+                    {
+                        "destination": "Collonges Marché",
+                        "destinationTransportAPI": "Collonges-Salève, Marché",
+                        "line": "62",
                         "operator": "tpg"
                     }
                 ],
@@ -44978,7 +45078,8 @@
         "latitude": 46.154071,
         "lines": {
             "44": "tpg",
-            "NO": "tpg"
+            "NO": "tpg",
+            "62": "tpg"
         },
         "localisations": [
             {
@@ -44987,6 +45088,12 @@
                         "destination": "Croix-de-Rozon",
                         "destinationTransportAPI": "Croix-de-Rozon, douane",
                         "line": "44",
+                        "operator": "tpg"
+                    },
+                    {
+                        "destination": "Collonges Marché",
+                        "destinationTransportAPI": "Collonges-Salève, Marché",
+                        "line": "62",
                         "operator": "tpg"
                     }
                 ],
@@ -44999,6 +45106,12 @@
                         "destination": "Carouge-Tours",
                         "destinationTransportAPI": "Carouge GE, Tours",
                         "line": "44",
+                        "operator": "tpg"
+                    },
+                    {
+                        "destination": "Bachet",
+                        "destinationTransportAPI": "Grand-Lancy, Bachet-de-Pesay",
+                        "line": "62",
                         "operator": "tpg"
                     }
                 ],
@@ -55727,7 +55840,8 @@
         "connectionsMap": false,
         "latitude": 46.162781,
         "lines": {
-            "44": "tpg"
+            "44": "tpg",
+            "62": "tpg"
         },
         "localisations": [
             {
@@ -55736,6 +55850,12 @@
                         "destination": "Croix-de-Rozon",
                         "destinationTransportAPI": "Croix-de-Rozon, douane",
                         "line": "44",
+                        "operator": "tpg"
+                    },
+                    {
+                        "destination": "Collonges Marché",
+                        "destinationTransportAPI": "Collonges-Salève, Marché",
+                        "line": "62",
                         "operator": "tpg"
                     }
                 ],
@@ -55749,6 +55869,12 @@
                         "destinationTransportAPI": "Carouge GE, Tours",
                         "line": "44",
                         "operator": "tpg"
+                    },
+                    {
+                        "destination": "Bachet",
+                        "destinationTransportAPI": "Grand-Lancy, Bachet-de-Pesay",
+                        "line": "62",
+                        "operator": "tpg"
                     }
                 ],
                 "latitude": 46.162793795930696,
@@ -55756,14 +55882,14 @@
             }
         ],
         "longitude": 6.138949,
-        "name": "Chemin de Roday",
+        "name": "Roday",
         "nameTransportAPI": "Plan-les-Ouates, Roday",
         "pricingZone": [
             10
         ],
         "sbbId": "8593055",
         "subTitle": "",
-        "title": "Chemin de Roday"
+        "title": "Roday"
     },
     {
         "appId": 267580,
@@ -56452,5 +56578,122 @@
         "sbbId": "8592859",
         "subTitle": "",
         "title": "Mines"
+    },
+    {
+        "appId": 458202,
+        "code": "LADN",
+        "connections": [],
+        "connectionsMap": false,
+        "latitude": 46.142271,
+        "lines": {
+            "62": "tpg"
+        },
+        "localisations": [
+            {
+                "destinations": [
+                    {
+                        "destination": "Bachet",
+                        "destinationTransportAPI": "Grand-Lancy, Bachet-de-Pesay",
+                        "line": "62",
+                        "operator": "tpg"
+                    }
+                ],
+                "latitude": 46.19531759487476,
+                "longitude": 6.132915
+            },
+            {
+                "destinations": [
+                    {
+                        "destination": "Collonges Marché",
+                        "destinationTransportAPI": "Collonges-Salève, Marché",
+                        "line": "62",
+                        "operator": "tpg"
+                    }
+                ],
+                "latitude": 46.195748054941106,
+                "longitude": 6.132915
+            }
+        ],
+        "longitude": 6.132915,
+        "name": "Landecy",
+        "nameTransportAPI": "Bardonnex, Landecy",
+        "pricingZone": [
+            10
+        ],
+        "sbbId": "8595013",
+        "subTitle": "",
+        "title": "Landecy"
+    },
+    {
+        "appId": 235935,
+        "code": "PRVI",
+        "connections": [],
+        "connectionsMap": false,
+        "latitude": 46.130371,
+        "lines": {
+            "63": "tpg"
+        },
+        "localisations": [
+            {
+                "destinations": [
+                    {
+                        "destination": "Confignon-Cr.",
+                        "destinationTransportAPI": "Confignon, croisée",
+                        "line": "63",
+                        "operator": "tpg"
+                    },
+                    {
+                        "destination": "Viry",
+                        "destinationTransportAPI": "Viry, Église",
+                        "line": "63",
+                        "operator": "tpg"
+                    }
+                ],
+                "latitude": 46.130371,
+                "longitude": 6.029642
+            }
+        ],
+        "longitude": 6.029642,
+        "name": "Viry P+R",
+        "nameTransportAPI": "Viry, P+R",
+        "pricingZone": [
+            10
+        ],
+        "sbbId": "8587392",
+        "subTitle": "P+R",
+        "title": "Viry"
+    },
+    {
+        "appId": 235935,
+        "code": "PRVI",
+        "connections": [],
+        "connectionsMap": false,
+        "latitude": 46.118808,
+        "lines": {
+            "63": "tpg"
+        },
+        "localisations": [
+            {
+                "destinations": [
+                    {
+                        "destination": "Confignon-Cr.",
+                        "destinationTransportAPI": "Confignon, croisée",
+                        "line": "63",
+                        "operator": "tpg"
+                    }
+                ],
+                "latitude": 46.118808,
+                "longitude": 6.037419
+            }
+        ],
+        "longitude": 6.037419,
+        "name": "Viry Église",
+        "nameTransportAPI": "Viry, Église",
+        "pricingZone": [
+            10
+        ],
+        "sbbId": "8587392",
+        "subTitle": "Église",
+        "title": "Viry"
     }
 ]
