@@ -56564,7 +56564,7 @@
         "code": "LADN",
         "connections": [],
         "connectionsMap": false,
-        "latitude": 46.142271,
+        "latitude": 46.19531759487476,
         "lines": {
             "62": "tpg",
             "NO": "tpg"
@@ -56640,7 +56640,7 @@
         "pricingZone": [
             10
         ],
-        "sbbId": "8587392",
+        "sbbId": "8503418",
         "subTitle": "P+R",
         "title": "Viry"
     },
@@ -56673,7 +56673,7 @@
         "pricingZone": [
             10
         ],
-        "sbbId": "8587392",
+        "sbbId": "8503349",
         "subTitle": "Église",
         "title": "Viry"
     }
