@@ -3,7 +3,7 @@ import partridge as ptg
 import json
 import hashlib
 
-path = 'gtfsfp20182018-09-19.zip'
+path = 'gtfsfp20182018-09-26.zip'
 
 print("Loading GTFS")
 service_ids_by_date = ptg.read_service_ids_by_date(path)
