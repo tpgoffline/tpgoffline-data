@@ -3,13 +3,13 @@ import partridge as ptg
 import json
 import hashlib
 
-path = 'gtfsfp20182018-09-12.zip'
+path = 'gtfsfp20182018-09-19.zip'
 
 print("Loading GTFS")
 service_ids_by_date = ptg.read_service_ids_by_date(path)
 
 tree = {}
-dates = {"LUN": date(2018, 9, 17), "VEN": date(2018, 9, 21), "SAM": date(2018, 9, 22), "DIM": date(2018, 9, 23)}
+dates = {"LUN": date(2018, 10, 1), "VEN": date(2018, 10, 5), "SAM": date(2018, 10, 6), "DIM": date(2018, 10, 7)}
 for (day, currentDate) in dates.items():
 	print("Loading " + day)
 	service_ids = service_ids_by_date[currentDate]
