@@ -669,13 +669,13 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.196592740954216,
@@ -687,13 +687,13 @@
                         "destination": "Abondance",
                         "destinationTransportAPI": "Annemasse, Abondance",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.1968214775197,
@@ -1329,7 +1329,7 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.198217094179626,
@@ -1341,7 +1341,7 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.198317427096015,
@@ -1374,7 +1374,7 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.199545111831135,
@@ -1386,7 +1386,7 @@
                         "destination": "Altéa",
                         "destinationTransportAPI": "Annemasse, Altéa",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19967062263756,
@@ -1724,7 +1724,7 @@
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.2041583288071,
@@ -1736,7 +1736,7 @@
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.204279860011304,
@@ -2896,13 +2896,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.14193040750467,
@@ -3126,7 +3126,7 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18940310473604,
@@ -3138,7 +3138,7 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18875043588103,
@@ -3518,7 +3518,7 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.201121627740505,
@@ -3530,7 +3530,7 @@
                         "destination": "Altéa",
                         "destinationTransportAPI": "Annemasse, Altéa",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20119334686997,
@@ -3617,7 +3617,7 @@
                         "destinationTransportAPI": "Vernier, C.O. Renard",
                         "line": "51",
                         "operator": "tpg"
-                    }
+                    },
                     {
                         "destination": "CO Renard",
                         "destinationTransportAPI": "Vernier, C.O. Renard",
@@ -4203,13 +4203,13 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19715463779673,
@@ -4221,13 +4221,13 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19702815985269,
@@ -4922,13 +4922,13 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20166489745101,
@@ -4940,13 +4940,13 @@
                         "destination": "Abondance",
                         "destinationTransportAPI": "Annemasse, Abondance",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20193730344123,
@@ -5031,7 +5031,7 @@
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.16817020834552,
@@ -5043,13 +5043,13 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.16811050923325,
@@ -5342,7 +5342,7 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18569014544309,
@@ -5354,13 +5354,13 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18609421552352,
@@ -5828,7 +5828,7 @@
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20661359418145,
@@ -5840,13 +5840,13 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20668608265266,
@@ -6678,7 +6678,7 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19685605154312,
@@ -6690,7 +6690,7 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19689454372201,
@@ -6839,7 +6839,7 @@
                         "destination": "Pres-des-plans",
                         "destinationTransportAPI": "Annemasse, Prés des Plans",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19219749408883,
@@ -7161,7 +7161,7 @@
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18252758651308,
@@ -7173,7 +7173,7 @@
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18248502022373,
@@ -7211,19 +7211,19 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.1922739719669,
@@ -7235,37 +7235,37 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pres-des-plans",
                         "destinationTransportAPI": "Annemasse, Prés des Plans",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19190064339522,
@@ -7791,25 +7791,25 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19610728796307,
@@ -7821,25 +7821,25 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Abondance",
                         "destinationTransportAPI": "Annemasse, Abondance",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19627163775376,
@@ -8006,13 +8006,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.16676100326245,
@@ -8024,7 +8024,7 @@
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.166353300118494,
@@ -8151,10 +8151,10 @@
         "connectionsMap": false,
         "latitude": 46.193316263311345,
         "lines": {
-            "5": "TAC",
+            "5": "tac",
             "61": "tpg",
-            "R": "TAC",
-            "T2": "TAC"
+            "R": "tac",
+            "T2": "tac"
         },
         "localisations": [
             {
@@ -8163,13 +8163,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Gare Cornavin",
@@ -8181,13 +8181,13 @@
                         "destination": "Moillesulaz",
                         "destinationTransportAPI": "Thônex, Moillesulaz",
                         "line": "R",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Saint-Genis",
                         "destinationTransportAPI": "---",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.193316263311345,
@@ -8468,9 +8468,9 @@
         "connectionsMap": false,
         "latitude": 46.191653197550956,
         "lines": {
-            "3": "TAC",
+            "3": "tac",
             "61": "tpg",
-            "R": "TAC"
+            "R": "tac"
         },
         "localisations": [
             {
@@ -8491,19 +8491,19 @@
                         "destination": "Collège J.Prévert",
                         "destinationTransportAPI": "---",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Saint-Genis",
                         "destinationTransportAPI": "---",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Annemasse Gare",
@@ -8515,7 +8515,7 @@
                         "destination": "Annemasse Gare",
                         "destinationTransportAPI": "Annemasse, gare",
                         "line": "R",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19104739782162,
@@ -8527,25 +8527,25 @@
                         "destination": "Collège J.Prévert",
                         "destinationTransportAPI": "---",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Saint-Genis",
                         "destinationTransportAPI": "---",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Moillesulaz",
                         "destinationTransportAPI": "Thônex, Moillesulaz",
                         "line": "R",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19190523061397,
@@ -8674,9 +8674,9 @@
         "connectionsMap": false,
         "latitude": 46.19004664965957,
         "lines": {
-            "3": "TAC",
+            "3": "tac",
             "61": "tpg",
-            "R": "TAC"
+            "R": "tac"
         },
         "localisations": [
             {
@@ -8685,7 +8685,7 @@
                         "destination": "Saint-Genis",
                         "destinationTransportAPI": "---",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Annemasse Gare",
@@ -8697,7 +8697,7 @@
                         "destination": "Annemasse Gare",
                         "destinationTransportAPI": "Annemasse, gare",
                         "line": "R",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19004664965957,
@@ -9064,7 +9064,7 @@
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20359261389206,
@@ -9076,7 +9076,7 @@
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20363362371574,
@@ -9111,19 +9111,19 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pres-des-plans",
                         "destinationTransportAPI": "Annemasse, Prés des Plans",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19571844219393,
@@ -9135,19 +9135,19 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.195707529007755,
@@ -9336,19 +9336,19 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Altéa",
                         "destinationTransportAPI": "Annemasse, Altéa",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.1926441583702,
@@ -9471,7 +9471,7 @@
                         "destinationTransportAPI": "Vernier, C.O. Renard",
                         "line": "51",
                         "operator": "tpg"
-                    }
+                    },
                     {
                         "destination": "CO Renard",
                         "destinationTransportAPI": "Vernier, C.O. Renard",
@@ -9716,9 +9716,9 @@
         "connectionsMap": false,
         "latitude": 46.19142855468765,
         "lines": {
-            "3": "TAC",
+            "3": "tac",
             "61": "tpg",
-            "R": "TAC"
+            "R": "tac"
         },
         "localisations": [
             {
@@ -9727,13 +9727,13 @@
                         "destination": "Collège J.Prévert",
                         "destinationTransportAPI": "---",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Gare Cornavin",
@@ -9745,7 +9745,7 @@
                         "destination": "Moillesulaz",
                         "destinationTransportAPI": "Thônex, Moillesulaz",
                         "line": "R",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19142855468765,
@@ -10581,13 +10581,13 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.203469642240776,
@@ -10599,7 +10599,7 @@
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20329069294213,
@@ -10812,7 +10812,7 @@
                         "destination": "Altéa",
                         "destinationTransportAPI": "Annemasse, Altéa",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.188260677511266,
@@ -10824,7 +10824,7 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18837240134365,
@@ -11095,7 +11095,7 @@
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.176706333651026,
@@ -11107,7 +11107,7 @@
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.175179786486815,
@@ -11301,13 +11301,13 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.24864992960876,
@@ -11319,7 +11319,7 @@
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.248470036067026,
@@ -11694,7 +11694,7 @@
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.17619586116172,
@@ -11706,7 +11706,7 @@
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.176306810324334,
@@ -12004,13 +12004,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.1806539260517,
@@ -12022,7 +12022,7 @@
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18045987058147,
@@ -12306,7 +12306,7 @@
                         "destination": "Pres-des-plans",
                         "destinationTransportAPI": "Annemasse, Prés des Plans",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18382148222407,
@@ -12779,25 +12779,25 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19468861726093,
@@ -12809,25 +12809,25 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Abondance",
                         "destinationTransportAPI": "Annemasse, Abondance",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.1948344348703,
@@ -13750,11 +13750,11 @@
         "connectionsMap": false,
         "latitude": 46.192840520527376,
         "lines": {
-            "3": "TAC",
-            "4": "TAC",
-            "6": "TAC",
+            "3": "tac",
+            "4": "tac",
+            "6": "tac",
             "61": "tpg",
-            "R": "TAC"
+            "R": "tac"
         },
         "localisations": [
             {
@@ -13763,37 +13763,37 @@
                         "destination": "Collège J.Prévert",
                         "destinationTransportAPI": "---",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pres-des-plans",
                         "destinationTransportAPI": "Annemasse, Prés des Plans",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Prés des Plans",
                         "destinationTransportAPI": "---",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Gare Cornavin",
@@ -13805,7 +13805,7 @@
                         "destination": "Moillesulaz",
                         "destinationTransportAPI": "Thônex, Moillesulaz",
                         "line": "R",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19291510933611,
@@ -13817,25 +13817,25 @@
                         "destination": "Saint-Genis",
                         "destinationTransportAPI": "---",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pres-des-plans",
                         "destinationTransportAPI": "Annemasse, Prés des Plans",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19276593171864,
@@ -14538,13 +14538,13 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18893526906916,
@@ -14556,13 +14556,13 @@
                         "destination": "Abondance",
                         "destinationTransportAPI": "Annemasse, Abondance",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18903488946077,
@@ -14697,13 +14697,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18185786331438,
@@ -14715,13 +14715,13 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18182202378235,
@@ -14756,25 +14756,25 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19253756690918,
@@ -14786,25 +14786,25 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Abondance",
                         "destinationTransportAPI": "Annemasse, Abondance",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.1928809917695,
@@ -14914,13 +14914,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.179699628482666,
@@ -14932,13 +14932,13 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.17971187856694,
@@ -15305,13 +15305,13 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20330937341741,
@@ -15323,7 +15323,7 @@
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20338587169525,
@@ -15376,7 +15376,7 @@
                         "destinationTransportAPI": "Vernier, C.O. Renard",
                         "line": "51",
                         "operator": "tpg"
-                    }
+                    },
                     {
                         "destination": "CO Renard",
                         "destinationTransportAPI": "Vernier, C.O. Renard",
@@ -15523,7 +15523,7 @@
                         "destinationTransportAPI": "Vernier, C.O. Renard",
                         "line": "51",
                         "operator": "tpg"
-                    }
+                    },
                     {
                         "destination": "CO Renard",
                         "destinationTransportAPI": "Vernier, C.O. Renard",
@@ -16362,7 +16362,7 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.186751223213456,
@@ -16374,7 +16374,7 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.1866706964378,
@@ -17581,13 +17581,13 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19667312196606,
@@ -17599,13 +17599,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19668088756667,
@@ -18020,13 +18020,13 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.213863335444145,
@@ -18038,7 +18038,7 @@
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.213719421571085,
@@ -18733,13 +18733,13 @@
                         "destination": "Abondance",
                         "destinationTransportAPI": "Annemasse, Abondance",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.186140156055345,
@@ -18751,13 +18751,13 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18619385025137,
@@ -18932,7 +18932,7 @@
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.16640025441873,
@@ -18944,13 +18944,13 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.16614139244963,
@@ -18964,7 +18964,7 @@
             10
         ],
         "sbbId": "8587905",
-        "subTitle": "Douane (TAC)",
+        "subTitle": "Douane (tac)",
         "title": "Veyrier"
     },
     {
@@ -19467,7 +19467,7 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19933461479413,
@@ -19479,7 +19479,7 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.199359560460024,
@@ -20161,13 +20161,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18694145734771,
@@ -20179,13 +20179,13 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18651450566864,
@@ -20287,10 +20287,10 @@
         "connectionsMap": false,
         "latitude": 46.19723695579621,
         "lines": {
-            "5": "TAC",
+            "5": "tac",
             "61": "tpg",
-            "R": "TAC",
-            "T2": "TAC"
+            "R": "tac",
+            "T2": "tac"
         },
         "localisations": [
             {
@@ -20299,13 +20299,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Gare Cornavin",
@@ -20317,13 +20317,13 @@
                         "destination": "Moillesulaz",
                         "destinationTransportAPI": "Thônex, Moillesulaz",
                         "line": "R",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Saint-Genis",
                         "destinationTransportAPI": "---",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19721398697149,
@@ -20335,19 +20335,19 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Altéa",
                         "destinationTransportAPI": "Annemasse, Altéa",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19725992462092,
@@ -20561,13 +20561,13 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.199132352238514,
@@ -20579,13 +20579,13 @@
                         "destination": "Abondance",
                         "destinationTransportAPI": "Annemasse, Abondance",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19954840261565,
@@ -20618,7 +20618,7 @@
                         "destination": "Pres-des-plans",
                         "destinationTransportAPI": "Annemasse, Prés des Plans",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18566839735377,
@@ -21537,25 +21537,25 @@
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Abondance",
                         "destinationTransportAPI": "Annemasse, Abondance",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20330305593018,
@@ -21567,19 +21567,19 @@
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pres-des-plans",
                         "destinationTransportAPI": "Annemasse, Prés des Plans",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Altéa",
                         "destinationTransportAPI": "Annemasse, Altéa",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20283016364096,
@@ -21829,9 +21829,9 @@
         "latitude": 46.19241452869728,
         "lines": {
             "12": "tpg",
-            "3": "TAC",
+            "3": "tac",
             "61": "tpg",
-            "R": "TAC"
+            "R": "tac"
         },
         "localisations": [
             {
@@ -21876,19 +21876,19 @@
                         "destination": "Collège J.Prévert",
                         "destinationTransportAPI": "---",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Saint-Genis",
                         "destinationTransportAPI": "---",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Annemasse Gare",
@@ -21900,7 +21900,7 @@
                         "destination": "Annemasse Gare",
                         "destinationTransportAPI": "Annemasse, gare",
                         "line": "R",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19224862204304,
@@ -21912,19 +21912,19 @@
                         "destination": "Collège J.Prévert",
                         "destinationTransportAPI": "---",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Saint-Genis",
                         "destinationTransportAPI": "---",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Gare Cornavin",
@@ -22164,7 +22164,7 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18916076580955,
@@ -22176,7 +22176,7 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18912382452595,
@@ -22209,7 +22209,7 @@
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.17767533139037,
@@ -22221,7 +22221,7 @@
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.17781159072061,
@@ -22305,7 +22305,7 @@
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.2018960043695,
@@ -22317,7 +22317,7 @@
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20187580650374,
@@ -22408,13 +22408,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18405340772403,
@@ -22426,13 +22426,13 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18389270118656,
@@ -22638,7 +22638,7 @@
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19014487050218,
@@ -22650,7 +22650,7 @@
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.190198285943566,
@@ -22684,25 +22684,25 @@
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.184930718136094,
@@ -22714,31 +22714,31 @@
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.184968552493686,
@@ -22771,13 +22771,13 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20151793901457,
@@ -22789,13 +22789,13 @@
                         "destination": "Abondance",
                         "destinationTransportAPI": "Annemasse, Abondance",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20241687682984,
@@ -22829,13 +22829,13 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.183146169251515,
@@ -22847,7 +22847,7 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.182966421996326,
@@ -22938,7 +22938,7 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20423314903519,
@@ -23100,7 +23100,7 @@
                         "destination": "Pres-des-plans",
                         "destinationTransportAPI": "Annemasse, Prés des Plans",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.194715747449884,
@@ -23112,7 +23112,7 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19443726721375,
@@ -24249,13 +24249,13 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.24025085087768,
@@ -24267,7 +24267,7 @@
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.239837096173154,
@@ -24929,7 +24929,7 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20343193776024,
@@ -24941,7 +24941,7 @@
                         "destination": "Altéa",
                         "destinationTransportAPI": "Annemasse, Altéa",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.203637272009196,
@@ -25217,13 +25217,13 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.22400812000651,
@@ -25235,7 +25235,7 @@
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.223973429841095,
@@ -25615,7 +25615,7 @@
         "latitude": 46.19415843236206,
         "lines": {
             "61": "tpg",
-            "R": "TAC"
+            "R": "tac"
         },
         "localisations": [
             {
@@ -25630,7 +25630,7 @@
                         "destination": "Annemasse Gare",
                         "destinationTransportAPI": "Annemasse, gare",
                         "line": "R",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19415843236206,
@@ -26230,7 +26230,7 @@
                         "destinationTransportAPI": "Vernier, C.O. Renard",
                         "line": "51",
                         "operator": "tpg"
-                    }
+                    },
                     {
                         "destination": "CO Renard",
                         "destinationTransportAPI": "Vernier, C.O. Renard",
@@ -26328,13 +26328,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18646791400129,
@@ -26346,13 +26346,13 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18640388405274,
@@ -26648,7 +26648,7 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18478625153273,
@@ -26660,7 +26660,7 @@
                         "destination": "Pres-des-plans",
                         "destinationTransportAPI": "Annemasse, Prés des Plans",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.184813935537555,
@@ -27111,7 +27111,7 @@
                         "destinationTransportAPI": "Vernier, C.O. Renard",
                         "line": "51",
                         "operator": "tpg"
-                    }
+                    },
                     {
                         "destination": "CO Renard",
                         "destinationTransportAPI": "Vernier, C.O. Renard",
@@ -27233,13 +27233,13 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.196927473812345,
@@ -27251,13 +27251,13 @@
                         "destination": "Abondance",
                         "destinationTransportAPI": "Annemasse, Abondance",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19701890875461,
@@ -27399,7 +27399,7 @@
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.17403716628228,
@@ -27411,7 +27411,7 @@
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.173707615181094,
@@ -28085,7 +28085,7 @@
                         "destinationTransportAPI": "Vernier, C.O. Renard",
                         "line": "51",
                         "operator": "tpg"
-                    }
+                    },
                     {
                         "destination": "Bus scolaire",
                         "destinationTransportAPI": "---",
@@ -28124,19 +28124,19 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.200990061664996,
@@ -28148,19 +28148,19 @@
                         "destination": "Abondance",
                         "destinationTransportAPI": "Annemasse, Abondance",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Altéa",
                         "destinationTransportAPI": "Annemasse, Altéa",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20089125638496,
@@ -29061,13 +29061,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19053225715503,
@@ -29079,13 +29079,13 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19087832947487,
@@ -29484,25 +29484,25 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Abondance",
                         "destinationTransportAPI": "Annemasse, Abondance",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Altéa",
                         "destinationTransportAPI": "Annemasse, Altéa",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18241407858756,
@@ -29514,13 +29514,13 @@
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.1822843293599,
@@ -29553,13 +29553,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.194788947538136,
@@ -29571,13 +29571,13 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19456613785911,
@@ -29951,19 +29951,19 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Altéa",
                         "destinationTransportAPI": "Annemasse, Altéa",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.194888412105065,
@@ -30431,7 +30431,7 @@
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.182272089060724,
@@ -30443,7 +30443,7 @@
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18173365811392,
@@ -30477,13 +30477,13 @@
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20616706565996,
@@ -30495,13 +30495,13 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20626560870579,
@@ -31737,13 +31737,13 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20395094315501,
@@ -31755,7 +31755,7 @@
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20405431346175,
@@ -31788,7 +31788,7 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19979348579815,
@@ -31800,7 +31800,7 @@
                         "destination": "Pres-des-plans",
                         "destinationTransportAPI": "Annemasse, Prés des Plans",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.200003367683664,
@@ -31987,7 +31987,7 @@
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19961040763615,
@@ -31999,7 +31999,7 @@
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19963669694915,
@@ -32090,13 +32090,13 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.2131163483407,
@@ -32108,7 +32108,7 @@
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.213154680376796,
@@ -32381,7 +32381,7 @@
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20063169017662,
@@ -32393,7 +32393,7 @@
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.200835245321166,
@@ -33098,7 +33098,7 @@
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.17777061522124,
@@ -33110,7 +33110,7 @@
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.177759845501754,
@@ -33476,13 +33476,13 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.23639756785068,
@@ -33494,7 +33494,7 @@
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.23596275172839,
@@ -33662,13 +33662,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18899673229634,
@@ -33680,13 +33680,13 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18880625288121,
@@ -33720,13 +33720,13 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.1826925823745,
@@ -33738,7 +33738,7 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.182608937861836,
@@ -33771,7 +33771,7 @@
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.182800905634345,
@@ -33783,7 +33783,7 @@
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18301136727642,
@@ -34137,7 +34137,7 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.199652754046625,
@@ -34149,7 +34149,7 @@
                         "destination": "Altéa",
                         "destinationTransportAPI": "Annemasse, Altéa",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.199700409514826,
@@ -34182,7 +34182,7 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.1854845127523,
@@ -34194,7 +34194,7 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.185421962851244,
@@ -34260,7 +34260,7 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.191538979873506,
@@ -34711,7 +34711,7 @@
                         "destinationTransportAPI": "Vernier, C.O. Renard",
                         "line": "51",
                         "operator": "tpg"
-                    }
+                    },
                     {
                         "destination": "CO Renard",
                         "destinationTransportAPI": "Vernier, C.O. Renard",
@@ -34751,13 +34751,13 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20245504557978,
@@ -34769,13 +34769,13 @@
                         "destination": "Pres-des-plans",
                         "destinationTransportAPI": "Annemasse, Prés des Plans",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Altéa",
                         "destinationTransportAPI": "Annemasse, Altéa",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20239357416476,
@@ -35177,7 +35177,7 @@
                         "destinationTransportAPI": "Vernier, C.O. Renard",
                         "line": "51",
                         "operator": "tpg"
-                    }
+                    },
                     {
                         "destination": "CO Renard",
                         "destinationTransportAPI": "Vernier, C.O. Renard",
@@ -35795,9 +35795,9 @@
         "connectionsMap": false,
         "latitude": 46.19420754513891,
         "lines": {
-            "3": "TAC",
+            "3": "tac",
             "61": "tpg",
-            "R": "TAC"
+            "R": "tac"
         },
         "localisations": [
             {
@@ -35806,13 +35806,13 @@
                         "destination": "Collège J.Prévert",
                         "destinationTransportAPI": "---",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Gare Cornavin",
@@ -35824,7 +35824,7 @@
                         "destination": "Moillesulaz",
                         "destinationTransportAPI": "Thônex, Moillesulaz",
                         "line": "R",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.1942247639298,
@@ -35836,7 +35836,7 @@
                         "destination": "Saint-Genis",
                         "destinationTransportAPI": "---",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19419032634801,
@@ -36197,7 +36197,7 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18264615713773,
@@ -36209,7 +36209,7 @@
                         "destination": "Pres-des-plans",
                         "destinationTransportAPI": "Annemasse, Prés des Plans",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18273820471604,
@@ -36409,7 +36409,7 @@
     },
     {
         "appId": 101253,
-        "code": "TACO",
+        "code": "tacO",
         "connections": [],
         "connectionsMap": false,
         "latitude": 46.20077591696565,
@@ -36431,14 +36431,14 @@
             }
         ],
         "longitude": 6.148218157861963,
-        "name": "Taconnerie",
-        "nameTransportAPI": "Genève, Taconnerie",
+        "name": "taconnerie",
+        "nameTransportAPI": "Genève, taconnerie",
         "pricingZone": [
             10
         ],
         "sbbId": "8592909",
         "subTitle": "",
-        "title": "Taconnerie"
+        "title": "taconnerie"
     },
     {
         "appId": 922618,
@@ -36870,7 +36870,7 @@
                         "destinationTransportAPI": "Vernier, C.O. Renard",
                         "line": "51",
                         "operator": "tpg"
-                    }
+                    },
                     {
                         "destination": "CO Renard",
                         "destinationTransportAPI": "Vernier, C.O. Renard",
@@ -37044,7 +37044,7 @@
                         "destinationTransportAPI": "Vernier, C.O. Renard",
                         "line": "51",
                         "operator": "tpg"
-                    }
+                    },
                     {
                         "destination": "CO Renard",
                         "destinationTransportAPI": "Vernier, C.O. Renard",
@@ -37837,7 +37837,7 @@
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.1793162210445,
@@ -37849,7 +37849,7 @@
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.17897978584768,
@@ -37873,9 +37873,9 @@
         "connectionsMap": false,
         "latitude": 46.19248299405811,
         "lines": {
-            "6": "TAC",
+            "6": "tac",
             "61": "tpg",
-            "R": "TAC"
+            "R": "tac"
         },
         "localisations": [
             {
@@ -37884,7 +37884,7 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.191897440568056,
@@ -37896,7 +37896,7 @@
                         "destination": "Pres-des-plans",
                         "destinationTransportAPI": "Annemasse, Prés des Plans",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19201492519464,
@@ -37914,7 +37914,7 @@
                         "destination": "Moillesulaz",
                         "destinationTransportAPI": "Thônex, Moillesulaz",
                         "line": "R",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.193530398020094,
@@ -37932,7 +37932,7 @@
                         "destination": "Annemasse Gare",
                         "destinationTransportAPI": "Annemasse, gare",
                         "line": "R",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19248921244966,
@@ -37998,7 +37998,7 @@
                         "destinationTransportAPI": "Vernier, C.O. Renard",
                         "line": "51",
                         "operator": "tpg"
-                    }
+                    },
                     {
                         "destination": "CO Renard",
                         "destinationTransportAPI": "Vernier, C.O. Renard",
@@ -38145,7 +38145,7 @@
         "latitude": 46.19179113534769,
         "lines": {
             "61": "tpg",
-            "R": "TAC"
+            "R": "tac"
         },
         "localisations": [
             {
@@ -38160,7 +38160,7 @@
                         "destination": "Annemasse Gare",
                         "destinationTransportAPI": "Annemasse, gare",
                         "line": "R",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19179113534769,
@@ -38168,13 +38168,13 @@
             }
         ],
         "longitude": 6.220627039542652,
-        "name": "Acacias (TAC / 61)",
-        "nameTransportAPI": "Ambilly, Acacias-TAC",
+        "name": "Acacias (tac / 61)",
+        "nameTransportAPI": "Ambilly, Acacias-tac",
         "pricingZone": [
             82
         ],
         "sbbId": "8595365",
-        "subTitle": "Ligne 61 / TAC",
+        "subTitle": "Ligne 61 / tac",
         "title": "Acacias"
     },
     {
@@ -38344,9 +38344,9 @@
         "connectionsMap": false,
         "latitude": 46.19303395643101,
         "lines": {
-            "6": "TAC",
+            "6": "tac",
             "61": "tpg",
-            "R": "TAC"
+            "R": "tac"
         },
         "localisations": [
             {
@@ -38355,7 +38355,7 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Gare Cornavin",
@@ -38367,7 +38367,7 @@
                         "destination": "Moillesulaz",
                         "destinationTransportAPI": "Thônex, Moillesulaz",
                         "line": "R",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19308688139778,
@@ -38379,7 +38379,7 @@
                         "destination": "Pres-des-plans",
                         "destinationTransportAPI": "Annemasse, Prés des Plans",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Annemasse Gare",
@@ -38391,7 +38391,7 @@
                         "destination": "Annemasse Gare",
                         "destinationTransportAPI": "Annemasse, gare",
                         "line": "R",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19298103146424,
@@ -38783,7 +38783,7 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19767216788902,
@@ -38795,7 +38795,7 @@
                         "destination": "Pres-des-plans",
                         "destinationTransportAPI": "Annemasse, Prés des Plans",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19760007483178,
@@ -39003,13 +39003,13 @@
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Altéa",
                         "destinationTransportAPI": "Annemasse, Altéa",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20756660146833,
@@ -39021,13 +39021,13 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20763961950022,
@@ -39212,19 +39212,19 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19227885698416,
@@ -39236,37 +39236,37 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pres-des-plans",
                         "destinationTransportAPI": "Annemasse, Prés des Plans",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19178249024371,
@@ -39299,7 +39299,7 @@
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.203326299340475,
@@ -39311,7 +39311,7 @@
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20441606562056,
@@ -39347,25 +39347,25 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Abondance",
                         "destinationTransportAPI": "Annemasse, Abondance",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Altéa",
                         "destinationTransportAPI": "Annemasse, Altéa",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.186549346734786,
@@ -39377,25 +39377,25 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18641196205957,
@@ -40311,37 +40311,37 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pres-des-plans",
                         "destinationTransportAPI": "Annemasse, Prés des Plans",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19190527374322,
@@ -40353,19 +40353,19 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19198498387033,
@@ -40489,19 +40489,19 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.187560273841726,
@@ -40513,19 +40513,19 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Abondance",
                         "destinationTransportAPI": "Annemasse, Abondance",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.187506580278104,
@@ -40617,13 +40617,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.15716570169801,
@@ -40635,7 +40635,7 @@
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.1575049344765,
@@ -42092,7 +42092,7 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.203390697184,
@@ -42104,7 +42104,7 @@
                         "destination": "Pres-des-plans",
                         "destinationTransportAPI": "Annemasse, Prés des Plans",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.20281328927735,
@@ -42173,10 +42173,10 @@
         "connectionsMap": false,
         "latitude": 46.1949151175046,
         "lines": {
-            "5": "TAC",
+            "5": "tac",
             "61": "tpg",
-            "R": "TAC",
-            "T2": "TAC"
+            "R": "tac",
+            "T2": "tac"
         },
         "localisations": [
             {
@@ -42185,13 +42185,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Gare Cornavin",
@@ -42203,13 +42203,13 @@
                         "destination": "Moillesulaz",
                         "destinationTransportAPI": "Thônex, Moillesulaz",
                         "line": "R",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Saint-Genis",
                         "destinationTransportAPI": "---",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19510212811042,
@@ -42227,7 +42227,7 @@
                         "destination": "Annemasse Gare",
                         "destinationTransportAPI": "Annemasse, gare",
                         "line": "R",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19472810689878,
@@ -42760,25 +42760,25 @@
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18834775236491,
@@ -42790,13 +42790,13 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18809722528731,
@@ -42808,13 +42808,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18809722528731,
@@ -44163,13 +44163,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19653902428085,
@@ -44181,13 +44181,13 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19648505727715,
@@ -44727,13 +44727,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.17057953583,
@@ -44745,13 +44745,13 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.17047237219637,
@@ -45723,7 +45723,7 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.187163593848524,
@@ -45735,7 +45735,7 @@
                         "destination": "Pres-des-plans",
                         "destinationTransportAPI": "Annemasse, Prés des Plans",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18743718956445,
@@ -45917,13 +45917,13 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.184935541901034,
@@ -45935,7 +45935,7 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18504559318857,
@@ -45947,7 +45947,7 @@
                         "destination": "Pres-des-plans",
                         "destinationTransportAPI": "Annemasse, Prés des Plans",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18533633653536,
@@ -45980,13 +45980,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.16877804036896,
@@ -45998,7 +45998,7 @@
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.16808531197637,
@@ -46424,13 +46424,13 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.229081907133256,
@@ -46442,7 +46442,7 @@
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.22910002507055,
@@ -46689,7 +46689,7 @@
                         "destinationTransportAPI": "Vernier, C.O. Renard",
                         "line": "51",
                         "operator": "tpg"
-                    }
+                    },
                     {
                         "destination": "CO Renard",
                         "destinationTransportAPI": "Vernier, C.O. Renard",
@@ -47697,7 +47697,7 @@
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.17799991757333,
@@ -47709,7 +47709,7 @@
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.177724103845485,
@@ -48277,13 +48277,13 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.23070853218422,
@@ -48295,7 +48295,7 @@
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.231145027302794,
@@ -48793,7 +48793,7 @@
                         "destinationTransportAPI": "Vernier, C.O. Renard",
                         "line": "51",
                         "operator": "tpg"
-                    }
+                    },
                     {
                         "destination": "CO Renard",
                         "destinationTransportAPI": "Vernier, C.O. Renard",
@@ -49198,7 +49198,7 @@
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.185815868455464,
@@ -49210,7 +49210,7 @@
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18516023554002,
@@ -49294,7 +49294,7 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18613320032567,
@@ -49306,7 +49306,7 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18598400776402,
@@ -49788,13 +49788,13 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18621619347107,
@@ -49806,13 +49806,13 @@
                         "destination": "Abondance",
                         "destinationTransportAPI": "Annemasse, Abondance",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18645999780772,
@@ -50629,13 +50629,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.17968198851012,
@@ -50647,13 +50647,13 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.180040539467,
@@ -51581,7 +51581,7 @@
                         "destinationTransportAPI": "Vernier, C.O. Renard",
                         "line": "51",
                         "operator": "tpg"
-                    }
+                    },
                     {
                         "destination": "CO Renard",
                         "destinationTransportAPI": "Vernier, C.O. Renard",
@@ -52139,7 +52139,7 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19092390842758,
@@ -52151,7 +52151,7 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19085057723932,
@@ -52660,13 +52660,13 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.251552323788324,
@@ -52821,13 +52821,13 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.16343744976725,
@@ -53064,13 +53064,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19074696467317,
@@ -53082,13 +53082,13 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19030895373041,
@@ -53265,7 +53265,7 @@
                         "destinationTransportAPI": "Vernier, C.O. Renard",
                         "line": "51",
                         "operator": "tpg"
-                    }
+                    },
                     {
                         "destination": "CO Renard",
                         "destinationTransportAPI": "Vernier, C.O. Renard",
@@ -54381,7 +54381,7 @@
                         "destinationTransportAPI": "Vernier, C.O. Renard",
                         "line": "51",
                         "operator": "tpg"
-                    }
+                    },
                     {
                         "destination": "CO Renard",
                         "destinationTransportAPI": "Vernier, C.O. Renard",
@@ -54566,13 +54566,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19129452173891,
@@ -54584,13 +54584,13 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.191237291756636,
@@ -55137,7 +55137,7 @@
                         "destination": "Altéa",
                         "destinationTransportAPI": "Annemasse, Altéa",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19043455857147,
@@ -55149,7 +55149,7 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.190092767617045,
@@ -55182,7 +55182,7 @@
                         "destination": "Gaillard Fossard",
                         "destinationTransportAPI": "Gaillard, Fossard",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18446246307876,
@@ -55194,7 +55194,7 @@
                         "destination": "Pres-des-plans",
                         "destinationTransportAPI": "Annemasse, Prés des Plans",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.1842943864139,
@@ -55497,7 +55497,7 @@
                         "destinationTransportAPI": "Vernier, C.O. Renard",
                         "line": "51",
                         "operator": "tpg"
-                    }
+                    },
                     {
                         "destination": "CO Renard",
                         "destinationTransportAPI": "Vernier, C.O. Renard",
@@ -55650,7 +55650,7 @@
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.17677853313411,
@@ -55662,13 +55662,13 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.17666948610776,
@@ -55710,7 +55710,7 @@
                         "destinationTransportAPI": "Vernier, C.O. Renard",
                         "line": "51",
                         "operator": "tpg"
-                    }
+                    },
                     {
                         "destination": "CO Renard",
                         "destinationTransportAPI": "Vernier, C.O. Renard",
@@ -56940,13 +56940,13 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pres-des-plans",
                         "destinationTransportAPI": "Annemasse, Prés des Plans",
                         "line": "6",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.183359249437316,
@@ -56979,13 +56979,13 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Lycée J.Monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.21772451066288,
@@ -56997,7 +56997,7 @@
                         "destination": "Machilly gare",
                         "destinationTransportAPI": "Annemasse, Machilly Gare",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.21784403492617,
@@ -57399,13 +57399,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.1840272678767,
@@ -57417,13 +57417,13 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18435094117903,
@@ -57740,7 +57740,7 @@
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "3",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.191471200587685,
@@ -58070,13 +58070,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19131258805758,
@@ -58088,13 +58088,13 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.19120258000507,
@@ -58288,13 +58288,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.191041339174944,
@@ -58306,13 +58306,13 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.190987778091944,
@@ -58409,13 +58409,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18540832376117,
@@ -58427,13 +58427,13 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18619112431166,
@@ -58904,25 +58904,25 @@
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "7",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Jean monnet",
                         "destinationTransportAPI": "Annemasse, Lycée J.Monnet",
                         "line": "T2",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.17993509521976,
@@ -58934,13 +58934,13 @@
                         "destination": "Collège P.E. Victor",
                         "destinationTransportAPI": "Cranves-S, Collège P.E. Victor",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Ville-La-Grand Eglise",
                         "destinationTransportAPI": "Annemasse, Ville-la-Grand Egli",
                         "line": "4",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.17992281754144,
@@ -59565,13 +59565,13 @@
                         "destination": "Etrembières Mairie",
                         "destinationTransportAPI": "Annemasse, Etrembières Mairie",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Pas-de-l'Echelle Ecole",
                         "destinationTransportAPI": "Pas-de-l'Echelle, école",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18112332995776,
@@ -59583,13 +59583,13 @@
                         "destination": "Bonne Centre",
                         "destinationTransportAPI": "Bonne, Bonne Centre",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     },
                     {
                         "destination": "Hôpital Findrol",
                         "destinationTransportAPI": "Bonne, hôpital Findrol",
                         "line": "5",
-                        "operator": "TAC"
+                        "operator": "tac"
                     }
                 ],
                 "latitude": 46.18089543383124,
