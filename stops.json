@@ -60023,39 +60023,6 @@
         "title": "Viry"
     },
     {
-        "appId": 118269,
-        "code": "-CHV",
-        "connections": [],
-        "connectionsMap": false,
-        "latitude": 46.22023555673151,
-        "lines": {
-            "34": "tpg"
-        },
-        "localisations": [
-            {
-                "destinations": [
-                    {
-                        "destination": "Veyrier-Tournettes",
-                        "destinationTransportAPI": "Veyrier, Tournettes",
-                        "line": "34",
-                        "operator": "tpg"
-                    }
-                ],
-                "latitude": 46.22023555673151,
-                "longitude": 6.226212408567164
-            }
-        ],
-        "longitude": 6.226212408567164,
-        "name": "lignes",
-        "nameTransportAPI": "---",
-        "pricingZone": [
-            10
-        ],
-        "sbbId": "---",
-        "subTitle": "",
-        "title": "lignes"
-    },
-    {
         "appId": 698154,
         "code": "AVVE",
         "connections": [],
@@ -60098,11 +60065,11 @@
         ],
         "longitude": 6.112725079463252,
         "name": "Avenue de Vessy",
-        "nameTransportAPI": "---",
+        "nameTransportAPI": "Ferney, Avenue de Vessy",
         "pricingZone": [
             10
         ],
-        "sbbId": "---",
+        "sbbId": "8504815",
         "subTitle": "",
         "title": "Avenue de Vessy"
     },
@@ -60149,11 +60116,11 @@
         ],
         "longitude": 6.154632625596831,
         "name": "Bellevue-Mairie",
-        "nameTransportAPI": "---",
+        "nameTransportAPI": "Bellevue GE, mairie",
         "pricingZone": [
             10
         ],
-        "sbbId": "---",
+        "sbbId": "8503217",
         "subTitle": "Mairie",
         "title": "Bellevue"
     },
@@ -60200,11 +60167,11 @@
         ],
         "longitude": 6.1518845557487225,
         "name": "Bellevue-Mollies",
-        "nameTransportAPI": "---",
+        "nameTransportAPI": "Bellevue GE, Mollies",
         "pricingZone": [
             10
         ],
-        "sbbId": "---",
+        "sbbId": "8503218",
         "subTitle": "Mollies",
         "title": "Bellevue"
     },
@@ -60257,14 +60224,14 @@
             }
         ],
         "longitude": 6.057118825140822,
-        "name": "Bergere",
-        "nameTransportAPI": "---",
+        "name": "Bergère",
+        "nameTransportAPI": "Satigny, Bergère",
         "pricingZone": [
             10
         ],
-        "sbbId": "---",
+        "sbbId": "8504813",
         "subTitle": "",
-        "title": "Bergere"
+        "title": "Bergère"
     },
     {
         "appId": 265910,
@@ -60291,11 +60258,11 @@
         ],
         "longitude": 6.034133379883791,
         "name": "Champvigny",
-        "nameTransportAPI": "---",
+        "nameTransportAPI": "Satigny, Champvigny",
         "pricingZone": [
             10
         ],
-        "sbbId": "---",
+        "sbbId": "8503330",
         "subTitle": "",
         "title": "Champvigny"
     },
@@ -60336,11 +60303,11 @@
         ],
         "longitude": 6.016579984553033,
         "name": "Clos des Vignes",
-        "nameTransportAPI": "---",
+        "nameTransportAPI": "Saint-Genis, Clos des Vignes",
         "pricingZone": [
             10
         ],
-        "sbbId": "---",
+        "sbbId": "8505102",
         "subTitle": "",
         "title": "Clos des Vignes"
     },
@@ -60376,11 +60343,11 @@
         ],
         "longitude": 6.199823892509154,
         "name": "C.O. Bois-Caran",
-        "nameTransportAPI": "---",
+        "nameTransportAPI": "Collonge-Bellerive, Bois-Caran",
         "pricingZone": [
             10
         ],
-        "sbbId": "---",
+        "sbbId": "8592725",
         "subTitle": "",
         "title": "C.O. Bois-Caran"
     },
@@ -60454,11 +60421,11 @@
         ],
         "longitude": 6.130365115411374,
         "name": "Crest-d'El",
-        "nameTransportAPI": "---",
+        "nameTransportAPI": "Collex, Crest-d'El",
         "pricingZone": [
             10
         ],
-        "sbbId": "---",
+        "sbbId": "8503040",
         "subTitle": "",
         "title": "Crest-d'El"
     },
@@ -60505,11 +60472,11 @@
         ],
         "longitude": 6.024380715980236,
         "name": "St-Genis-CERN-Alice",
-        "nameTransportAPI": "---",
+        "nameTransportAPI": "Saint-Genis, CERN Alice",
         "pricingZone": [
             10
         ],
-        "sbbId": "---",
+        "sbbId": "8505103",
         "subTitle": "CERN-Alice",
         "title": "St-Genis"
     },
@@ -60556,11 +60523,11 @@
         ],
         "longitude": 6.027926276012035,
         "name": "St-Genis-Mitterand",
-        "nameTransportAPI": "---",
+        "nameTransportAPI": "Saint-Genis, Mitterrand",
         "pricingZone": [
             10
         ],
-        "sbbId": "---",
+        "sbbId": "8505106",
         "subTitle": "Mitterand",
         "title": "St-Genis"
     },
@@ -60628,11 +60595,11 @@
         ],
         "longitude": 6.146948791391216,
         "name": "Genthod-le-Haut",
-        "nameTransportAPI": "---",
+        "nameTransportAPI": "Genthod, le Haut",
         "pricingZone": [
             10
         ],
-        "sbbId": "---",
+        "sbbId": "8503049",
         "subTitle": "",
         "title": "Genthod-le-Haut"
     },
@@ -60679,11 +60646,11 @@
         ],
         "longitude": 6.112215804159577,
         "name": "Ferney-Jura (Volt.)",
-        "nameTransportAPI": "---",
+        "nameTransportAPI": "Ferney, Avenue du Jura",
         "pricingZone": [
             10
         ],
-        "sbbId": "---",
+        "sbbId": "8587910",
         "subTitle": "",
         "title": "Ferney-Jura (Volt.)"
     },
@@ -60737,11 +60704,11 @@
         ],
         "longitude": 6.057019962626667,
         "name": "Nant-d'Avril",
-        "nameTransportAPI": "---",
+        "nameTransportAPI": "Satigny, Nant d'Avril",
         "pricingZone": [
             10
         ],
-        "sbbId": "---",
+        "sbbId": "8504812",
         "subTitle": "",
         "title": "Nant-d'Avril"
     },
@@ -60801,11 +60768,11 @@
         ],
         "longitude": 6.148727894719418,
         "name": "Genthod-Pierre-Grise",
-        "nameTransportAPI": "---",
+        "nameTransportAPI": "Genthod, Pierre-Grise",
         "pricingZone": [
             10
         ],
-        "sbbId": "---",
+        "sbbId": "8503085",
         "subTitle": "Pierre-Grise",
         "title": "Genthod"
     },
@@ -60846,11 +60813,11 @@
         ],
         "longitude": 6.011486947371548,
         "name": "Thoiry-Pôle Emploi",
-        "nameTransportAPI": "---",
+        "nameTransportAPI": "Thoiry, Pôle emploi",
         "pricingZone": [
             10
         ],
-        "sbbId": "---",
+        "sbbId": "8504811",
         "subTitle": "Pôle Emploi",
         "title": "Thoiry"
     },
@@ -60897,11 +60864,11 @@
         ],
         "longitude": 6.149966791312617,
         "name": "Genthod-Rennex",
-        "nameTransportAPI": "---",
+        "nameTransportAPI": "Genthod, Rennex",
         "pricingZone": [
             10
         ],
-        "sbbId": "---",
+        "sbbId": "8503080",
         "subTitle": "Rennex",
         "title": "Genthod"
     },
@@ -60948,11 +60915,11 @@
         ],
         "longitude": 6.141337979530935,
         "name": "Roselière",
-        "nameTransportAPI": "---",
+        "nameTransportAPI": "Bellevue GE, Roselière",
         "pricingZone": [
             10
         ],
-        "sbbId": "---",
+        "sbbId": "8503243",
         "subTitle": "",
         "title": "Roselière"
     },
@@ -60993,11 +60960,11 @@
         ],
         "longitude": 5.981909055527691,
         "name": "Le Roulave",
-        "nameTransportAPI": "---",
+        "nameTransportAPI": "Dardagny, Le Roulave",
         "pricingZone": [
             10
         ],
-        "sbbId": "---",
+        "sbbId": "8503419",
         "subTitle": "",
         "title": "Le Roulave"
     },
@@ -61038,11 +61005,11 @@
         ],
         "longitude": 6.157718704027854,
         "name": "Le Saugy",
-        "nameTransportAPI": "---",
+        "nameTransportAPI": "Genthod, Le Saugy",
         "pricingZone": [
             10
         ],
-        "sbbId": "---",
+        "sbbId": "8595023",
         "subTitle": "",
         "title": "Le Saugy"
     },
@@ -61083,11 +61050,11 @@
         ],
         "longitude": 6.022327610409112,
         "name": "St-Genis-Théâtre",
-        "nameTransportAPI": "---",
+        "nameTransportAPI": "Saint-Genis, théâtre",
         "pricingZone": [
             10
         ],
-        "sbbId": "---",
+        "sbbId": "8505107",
         "subTitle": "Théâtre",
         "title": "St-Genis"
     },
@@ -61128,11 +61095,11 @@
         ],
         "longitude": 6.123272215488445,
         "name": "Sonnex",
-        "nameTransportAPI": "---",
+        "nameTransportAPI": "Grand-Saconnex, Sonnex",
         "pricingZone": [
             10
         ],
-        "sbbId": "---",
+        "sbbId": "8503331",
         "subTitle": "",
         "title": "Sonnex"
     },
@@ -61179,11 +61146,11 @@
         ],
         "longitude": 6.14692667215269,
         "name": "Les Tuileries-Gare",
-        "nameTransportAPI": "---",
+        "nameTransportAPI": "Les Tuileries, gare",
         "pricingZone": [
             10
         ],
-        "sbbId": "---",
+        "sbbId": "8503229",
         "subTitle": "Gare",
         "title": "Les Tuileries"
     }
