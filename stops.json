@@ -1591,7 +1591,7 @@
         ],
         "longitude": 6.116131788568145,
         "name": "Palexpo Halle 7",
-        "nameTransportAPI": "Grand-Saconnex,Palexpo-Halle 7",
+        "nameTransportAPI": "Grand-Saconnex, Palexpo-Halle 7",
         "pricingZone": [
             10
         ],
@@ -5180,7 +5180,7 @@
             }
         ],
         "longitude": 6.108194263511603,
-        "name": "Ferney Mairie",
+        "name": "Ferney-Mairie",
         "nameTransportAPI": "Ferney, mairie",
         "pricingZone": [
             87
@@ -13421,11 +13421,11 @@
         ],
         "longitude": 6.169490685595644,
         "name": "Vessy-Stand de tir",
-        "nameTransportAPI": "Veyrier, Sierne",
+        "nameTransportAPI": "Vessy, Stand de Tir",
         "pricingZone": [
             10
         ],
-        "sbbId": "8593213",
+        "sbbId": "8593214",
         "subTitle": "Stand de tir",
         "title": "Veyrier"
     },
@@ -13920,7 +13920,7 @@
             }
         ],
         "longitude": 6.076754981829294,
-        "name": "Gare de Meyrin",
+        "name": "Meyrin-Gare",
         "nameTransportAPI": "Meyrin, gare",
         "pricingZone": [
             10
@@ -17096,7 +17096,7 @@
         "pricingZone": [
             10
         ],
-        "sbbId": "8595016",
+        "sbbId": "8592622",
         "subTitle": "",
         "title": "Sous Chevrens"
     },
@@ -21208,11 +21208,11 @@
         ],
         "longitude": 6.119687199780687,
         "name": "Grand-Lancy-Place",
-        "nameTransportAPI": "Grand-Lancy, mairie",
+        "nameTransportAPI": "Grand-Lancy, Place du 1er-Août",
         "pricingZone": [
             10
         ],
-        "sbbId": "8587902",
+        "sbbId": "8592983",
         "subTitle": "Place",
         "title": "Grand-Lancy"
     },
@@ -28412,7 +28412,7 @@
         "pricingZone": [
             10
         ],
-        "sbbId": "8592656",
+        "sbbId": "8587076",
         "subTitle": "Croisée",
         "title": "Lully"
     },
@@ -30839,7 +30839,7 @@
             }
         ],
         "longitude": 6.117918611542525,
-        "name": "Ferney Douane",
+        "name": "Ferney-Douane",
         "nameTransportAPI": "Ferney, douane",
         "pricingZone": [
             87
@@ -38944,13 +38944,13 @@
             }
         ],
         "longitude": 6.1332315273797775,
-        "name": "OMS (Ligne 28/F)",
+        "name": "OMS (Ligne 22/28/F)",
         "nameTransportAPI": "Genève, OMS",
         "pricingZone": [
             10
         ],
         "sbbId": "8587904",
-        "subTitle": "Ligne 28 / F",
+        "subTitle": "Ligne 22 / 28 / F",
         "title": "OMS"
     },
     {
@@ -42396,11 +42396,11 @@
         ],
         "longitude": 6.159399971003184,
         "name": "Vessy-Plateau",
-        "nameTransportAPI": "Vessy, village",
+        "nameTransportAPI": "Vessy, Plateau",
         "pricingZone": [
             10
         ],
-        "sbbId": "8593214",
+        "sbbId": "8593216",
         "subTitle": "Plateau",
         "title": "Vessy"
     },
@@ -48856,7 +48856,7 @@
         "pricingZone": [
             10
         ],
-        "sbbId": "8592780",
+        "sbbId": "8596094",
         "subTitle": "",
         "title": "Dancet"
     },
@@ -59985,12 +59985,12 @@
         "pricingZone": [
             10
         ],
-        "sbbId": "8587392",
+        "sbbId": "8503418",
         "subTitle": "P+R",
         "title": "Viry"
     },
     {
-        "appId": 235935,
+        "appId": 987657,
         "code": "VIEG",
         "connections": [],
         "connectionsMap": false,
@@ -60018,7 +60018,7 @@
         "pricingZone": [
             10
         ],
-        "sbbId": "8587392",
+        "sbbId": "8503349",
         "subTitle": "Église",
         "title": "Viry"
     },
